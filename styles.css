@@ -1,0 +1,13 @@
+p {
+    margin: 25px;
+    padding: 25px;
+    font-family: Georgia
+}
+#title {
+    text-align: center;
+    color: blue;
+}
+h3.city {
+    text-align: center;
+    color: blue;
+}
